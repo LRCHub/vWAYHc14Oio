@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大きなあなた小さなわたし",
+  "base_artist": "shiina",
+  "createdAt": "2026-01-04T16:58:50.855623Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大きなあなた小さなわたし",
+      "artist": "shiina",
+      "has_synced": false,
+      "path": "select/pl_01_大きなあなた小さなわたし_shiina.txt"
+    }
+  ]
+}
